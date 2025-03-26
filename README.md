@@ -2,24 +2,23 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00CC99&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Danilo+Soares;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
-<h2 align="left">💻 Sobre Mim</h2>
+<h2 align="left">🧑‍💻 Sobre Mim</h2>
 
 
 ###
 
-<p align="left">Olá! Sou um desenvolvedor com uma mente curiosa por tecnologia, sempre motivado a entender como as coisas funcionam. Tenho experiência no desenvolvimento de aplicações utilizando Java, React Native, Node.js, Laravel, entre outras tecnologias.<br><br>Meu objetivo é criar soluções eficientes que façam a diferença, enquanto continuo aprendendo e evoluindo a cada projeto.</p>
+<p align="left">Olá! Sou um desenvolvedor apaixonado por tecnologia, sempre curioso para entender como as coisas funcionam. Tenho experiência no desenvolvimento de aplicações utilizando **Java**, **React Native**, **Node.js**, **Laravel**, entre outras tecnologias.  
+
+📍 **Meu objetivo:** Criar soluções eficientes que fazem a diferença, sempre buscando evoluir e aprender com cada projeto.  </p>
 
 ###
 
-<h2 align="left">🚀 Git</h2>
+<h2 align="left"> 📈 Estatísticas  </h2>
 
 ###
 
 <br clear="both">
 
-<div align="center">
-  <img height="135" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif"  />
-</div>
 
 ###
 
@@ -30,32 +29,23 @@
 
 ###
 
-<h2 align="left">⚙️ Tecnologias sendo estudadas</h2>
+## ⚙️ Tecnologias  
 
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
+### 🌐 **Frontend**  
+<div>
+  <img src="https://skillicons.dev/icons?i=js,react" height="40" alt="javascript e react logo"  />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/handlebarsdotjs/000000" height="40" alt="handlebars logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=html,css" height="40" alt="html e css logo"  />
+</div>
+
+### 💻 **Backend**  
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,java,php,laravel" height="40" alt="backend logos" />
+</div>
+
+### 🛢️ **Banco de Dados**  
+<div>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" height="40" alt="database logos" />
 </div>
 
 ###
@@ -80,7 +70,11 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/danilo-soares-9b605126a" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo"/>
+  </a>
+  <a href="https://github.com/DaniloSsoares" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="40" alt="GitHub logo"/>
+  </a>
 </div>
 
 ###
