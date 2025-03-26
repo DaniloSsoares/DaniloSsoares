@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">Olá! Sou um desenvolvedor com uma mente curiosa por tecnologia, sempre motivado a entender como as coisas funcionam e a encontrar soluções inteligentes. Tenho experiência no desenvolvimento de aplicações utilizando Java, React Native, Node.js, Laravel, entre outras tecnologias.<br><br>Meu objetivo é criar soluções eficientes que façam a diferença, enquanto continuo aprendendo e evoluindo a cada projeto.</p>
+<p align="left">Olá! Sou um desenvolvedor com uma mente curiosa por tecnologia, sempre motivado a entender como as coisas funcionam. Tenho experiência no desenvolvimento de aplicações utilizando Java, React Native, Node.js, Laravel, entre outras tecnologias.<br><br>Meu objetivo é criar soluções eficientes que façam a diferença, enquanto continuo aprendendo e evoluindo a cada projeto.</p>
 
 ###
 
@@ -79,6 +79,7 @@
 ###
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/danilo-soares-9b605126a" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
 
