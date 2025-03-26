@@ -6,7 +6,7 @@
 <p align="left">Olá! Sou um desenvolvedor com uma mente curiosa por tecnologia, sempre motivado a entender como as coisas funcionam e a encontrar soluções inteligentes. Tenho experiência no desenvolvimento de aplicações utilizando Java, React Native, Node.js, Laravel, entre outras tecnologias.<br><br>Meu objetivo é criar soluções eficientes que façam a diferença, enquanto continuo aprendendo e evoluindo a cada projeto.</p>
 
 ###
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00CC99&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+Meu+Nome+é+Danilo+Soares;Be+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00CC99&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Danilo+Soares;Be+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <h2 align="left">🚀 Git</h2>
 
