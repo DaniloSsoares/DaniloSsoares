@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">Olá! Sou um desenvolvedor apaixonado por tecnologia, sempre curioso para entender como as coisas funcionam. Tenho experiência no desenvolvimento de aplicações utilizando **Java**, **React Native**, **Node.js**, **Laravel**, entre outras tecnologias.  
+<p align="left">Olá! Sou um desenvolvedor apaixonado por tecnologia, sempre curioso para entender como as coisas funcionam. Tenho conhecimento no desenvolvimento de aplicações utilizando **Java**, **React Native**, **Node.js**, **Laravel**, entre outras tecnologias.  
 
 📍 **Meu objetivo:** Criar soluções eficientes que fazem a diferença, sempre buscando evoluir e aprender com cada projeto.  </p>
 
