@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=65005D&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00CC99&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Danilo+Soares;Be+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00CC99&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Danilo+Soares;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <h2 align="left">💻 Sobre Mim</h2>
 
